@@ -1,8 +1,7 @@
 # DIU - Practica 3, entregables
 
 ## Moodboard (diseño visual + logotipo)   
-
-
+![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/MoodBoard.png)
 ## Landing Page
 
 
