@@ -4,9 +4,14 @@
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/MoodBoard.png)
 ## Landing Page
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/LandingPage.001.jpeg)
+## GuideLines
 
 ## Mockup: LAYOUT HI-FI
-
+![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Home.png)
+![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Actividades.png)
+![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Contacto.png)
+![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Galeria.png)
+![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Reserva.png)
 
 ## Documentación: Publicación del Case Study
 
