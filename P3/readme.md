@@ -3,11 +3,11 @@
 ## Moodboard (diseño visual + logotipo)
 Primeramente, empezamos creando un MoodBoard que es una pizarra en la que podemos concentrar diferentes elementos, como el logo que tendrá el Hostel, la paleta de colores que usará, algunos iconos identificativos...
 
-![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/MoodBoard.png)
+![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/MoodBoard-2.png)
 ## Landing Page
 Partiendo de nuestro Wireframe de la página anterior, diseñamos este landing page. En él, debemos presentar el objetivo del proyecto con claridad. Para ello necesitaremos un logotipo reconocible como el que tenemos, un título sugerente seguido de subtítulos en los que mostraremos los principales atractivos de la aplicación y elementos gráficos que refuercen el significado
 
-![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/LandingPage.001.jpeg)
+![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/LandingPage.001-2.jpeg)
 ## GuideLines
 
 Tipografía y colores
