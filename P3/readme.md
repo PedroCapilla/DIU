@@ -6,8 +6,31 @@ Primeramente, empezamos creando un MoodBoard que es una pizarra en la que podemo
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/MoodBoard.png)
 ## Landing Page
 Partiendo de nuestro Wireframe de la página anterior, diseñamos este landing page. En él, debemos presentar el objetivo del proyecto con claridad. Para ello necesitaremos un logotipo reconocible como el que tenemos, un título sugerente seguido de subtítulos en los que mostraremos los principales atractivos de la aplicación y elementos gráficos que refuercen el significado
+
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/LandingPage.001.jpeg)
 ## GuideLines
+
+Tipografía y colores
+Por una parte se ha escogido una tipografía Glegoo para el título, Fira Sans para subtítulos y Voces  para los textos. Es una tipografía totalmente libre y gratuita. Es amigable, especialmente legible y optimizada tanto como para impresión como para su utilización en dispositivos móviles o en formato web.
+Por otra parte, se han usado cuatro colores siendo el azul oscuro y el naranja los principales, con la idea de seguir con los colores del logo y hacer referencia a el nombre de nuestro con el “orange”
+
+FOTOS
+
+Cabe destacar, que como se ha comentado anteriormente, nuestra página web se llama Orange Rock y ofrece servicio de restauración, además de habitaciones y zonas de concierto. Es ésta la razón por la que tuvimos varias imágenes inspiradoras en las que se puede ver claramente que el color predominante es el naranja e implican justo lo que nuestra web ofrece, ocio.
+
+FOTOS
+
+Como iconos de nuestra página web, usaremos del siguiente estilo, otra vez siguiendo la paleta de colores con el azul oscuro, y la idea de la naranja como nuestro logo.
+
+FOTOS
+
+Patrones de diseño
+Investigando sobre los patrones de diseño, en la paǵina material.io, que es un sistema de diseño open-source que introduce de manera sencilla en el mundo del diseño de aplicaciones, aprendimos una serie de herramientas como:
+Pautas de diseño, que incluyen desde detalles de estilo hasta buenas prácticas.
+Guía de componentes, que nos permite crear una interfaz de usuario sencilla y bonita, tanto para dispositivos móviles como para formato web.
+Acceso a multitud de iconos.
+Pautas para hacer accesible nuestra aplicación, ayudándonos a crearla para que a los usuarios les sea sencillo navegar, entender y usar nuestra interfaz
+
 
 ## Mockup: LAYOUT HI-FI
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Home.png)
