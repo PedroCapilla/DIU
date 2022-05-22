@@ -5,7 +5,9 @@ Primeramente, empezamos creando un MoodBoard que es una pizarra en la que podemo
 
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/MoodBoard-2.png)
 ## Landing Page
-Partiendo de nuestro Wireframe de la página anterior, diseñamos este landing page. En él, debemos presentar el objetivo del proyecto con claridad. Para ello necesitaremos un logotipo reconocible como el que tenemos, un título sugerente seguido de subtítulos en los que mostraremos los principales atractivos de la aplicación y elementos gráficos que refuercen el significado
+Partiendo de nuestro Wireframe de la página anterior, diseñamos este landing page. En él, debemos presentar el objetivo del proyecto con claridad. Para ello necesitaremos un logotipo reconocible como el que tenemos, un título sugerente seguido de subtítulos en los que mostraremos los principales atractivos de la aplicación y elementos gráficos que refuercen el significado.
+
+El diseño de la página es del tipo scroll, de forma que los diferentes elementos se van descubriendo poco a poco a poco. Esto permite centrar la atención a unos pocos puntos a la vez.
 
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/LandingPage.001-2.jpeg)
 ## GuideLines
@@ -21,7 +23,9 @@ Por otra parte, se han usado cuatro colores siendo el azul oscuro y el naranja l
 
 Cabe destacar, que como se ha comentado anteriormente, nuestra página web se llama Orange Rock y ofrece servicio de restauración, además de habitaciones y zonas de concierto. Es ésta la razón por la que tuvimos varias imágenes inspiradoras en las que se puede ver claramente que el color predominante es el naranja e implican justo lo que nuestra web ofrece, ocio.
 
-FOTOS
+![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/ImagenInspi1.png)
+![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/ImagenInspi2.png)
+
 
 Como iconos de nuestra página web, usaremos del siguiente estilo, otra vez siguiendo la paleta de colores con el azul oscuro, y la idea de la naranja como nuestro logo.
 
