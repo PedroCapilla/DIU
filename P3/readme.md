@@ -57,19 +57,29 @@ Pautas para hacer accesible nuestra aplicación, ayudándonos a crearla para que
 
 ## Mockup: LAYOUT HI-FI
 
+
 Imagen de como sería el Home de la aplicación
+
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Home.png)
 
+
 Imagen del apartado de actividades de la aplicación. En esta se encuentran algunas fotos y una breve explicación general sobre las actividades que oferta el hostel.
+
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Actividades.png)
 
+
 Imagen que contiene el formulario de contacto, así como la ubicación de donde se encuentra. Además contiene el número de telefono y el correo electrónico para poder hablar directamente con el establecimiento.
+
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Contacto1.png)
 
+
 Imagen que contiene el apartado de Galeria.
+
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Galeria.png)
 
+
 Imagen que contiene el apartado de Reserva. Se encuentran el apartado para reservar el evento concreto próximo, o los próximos eventos que hayan, reserva de habitaciones y reserva para el restaurante.
+
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Reserva.png)
 
 ## Documentación: Publicación del Case Study
