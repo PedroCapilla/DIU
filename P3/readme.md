@@ -10,11 +10,14 @@ Partiendo de nuestro Wireframe de la página anterior, diseñamos este landing p
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/LandingPage.001-2.jpeg)
 ## GuideLines
 
-Tipografía y colores
+# Tipografía y colores
 Por una parte se ha escogido una tipografía Glegoo para el título, Fira Sans para subtítulos y Voces  para los textos. Es una tipografía totalmente libre y gratuita. Es amigable, especialmente legible y optimizada tanto como para impresión como para su utilización en dispositivos móviles o en formato web.
 Por otra parte, se han usado cuatro colores siendo el azul oscuro y el naranja los principales, con la idea de seguir con los colores del logo y hacer referencia a el nombre de nuestro con el “orange”
 
-FOTOS
+![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Fuente1.png)
+![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Fuente2.png)
+![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Fuente3.png)
+![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/PaletaColores.png)
 
 Cabe destacar, que como se ha comentado anteriormente, nuestra página web se llama Orange Rock y ofrece servicio de restauración, además de habitaciones y zonas de concierto. Es ésta la razón por la que tuvimos varias imágenes inspiradoras en las que se puede ver claramente que el color predominante es el naranja e implican justo lo que nuestra web ofrece, ocio.
 
