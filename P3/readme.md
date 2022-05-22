@@ -21,6 +21,17 @@ Por otra parte, se han usado cuatro colores siendo el azul oscuro y el naranja l
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Fuente3.png)
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/PaletaColores.png)
 
+En la gama de colores anteriormente esxpuesta, podemos distinguir los siguientes códigos de colores:
+ * #284A4C
+ * #F4F483
+ * ECD171
+ * DD9B59
+
+Las fuentes utilziadas son:
+ * Para los titulos será "Glegoo" ya que es una fuente clara y visual, que permite centrar mucho la antención del usuario en el título.
+ * Para los subtitulos será "Fira Sans" ya que permite una gran legibilidad del texto.
+ * Para el texto utilizaremos "Voces" ya que, permite una gran legibilidad, además, para personas que tengan algún tipo de discapacidad, este tipo de fuentes serán de gran ayuda debido a la gran separación entre las propias letras de una palabra, al igual, que entre las palabras que conforman el párrafo.
+
 # Imagenes inspiradoras
 
 Cabe destacar, que como se ha comentado anteriormente, nuestra página web se llama Orange Rock y ofrece servicio de restauración, además de habitaciones y zonas de concierto. Es ésta la razón por la que tuvimos varias imágenes inspiradoras en las que se puede ver claramente que el color predominante es el naranja e implican justo lo que nuestra web ofrece, ocio.
@@ -46,14 +57,22 @@ Pautas para hacer accesible nuestra aplicación, ayudándonos a crearla para que
 
 ## Mockup: LAYOUT HI-FI
 
+Imagen de como sería el Home de la aplicación
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Home.png)
+
+Imagen del apartado de actividades de la aplicación. En esta se encuentran algunas fotos y una breve explicación general sobre las actividades que oferta el hostel.
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Actividades.png)
+
+Imagen que contiene el formulario de contacto, así como la ubicación de donde se encuentra. Además contiene el número de telefono y el correo electrónico para poder hablar directamente con el establecimiento.
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Contacto.png)
+
+Imagen que contiene el apartado de Galeria.
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Galeria.png)
+
+Imagen que contiene el apartado de Reserva. Se encuentran el apartado para reservar el evento concreto próximo, o los próximos eventos que hayan, reserva de habitaciones y reserva para el restaurante.
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Reserva.png)
 
 ## Documentación: Publicación del Case Study
 
-
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+Una vez realiazdo el MoodBoard, el LandingPage, GuideLines y MockUp, ya estaría listo el Case Study para ser publicado.
  
