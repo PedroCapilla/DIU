@@ -64,7 +64,7 @@ Imagen del apartado de actividades de la aplicación. En esta se encuentran algu
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Actividades.png)
 
 Imagen que contiene el formulario de contacto, así como la ubicación de donde se encuentra. Además contiene el número de telefono y el correo electrónico para poder hablar directamente con el establecimiento.
-![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Contacto.png)
+![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Contacto1.png)
 
 Imagen que contiene el apartado de Galeria.
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Galeria.png)
