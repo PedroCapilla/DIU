@@ -21,17 +21,22 @@ Por otra parte, se han usado cuatro colores siendo el azul oscuro y el naranja l
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Fuente3.png)
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/PaletaColores.png)
 
+# Imagenes inspiradoras
+
 Cabe destacar, que como se ha comentado anteriormente, nuestra página web se llama Orange Rock y ofrece servicio de restauración, además de habitaciones y zonas de concierto. Es ésta la razón por la que tuvimos varias imágenes inspiradoras en las que se puede ver claramente que el color predominante es el naranja e implican justo lo que nuestra web ofrece, ocio.
 
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/ImagenInspi1.png)
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/ImagenInspi2.png)
 
+# Iconos
 
 Como iconos de nuestra página web, usaremos del siguiente estilo, otra vez siguiendo la paleta de colores con el azul oscuro, y la idea de la naranja como nuestro logo.
 
-FOTOS
+![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Icono1.png)
+![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Icono2.png)
 
-Patrones de diseño
+# Patrones de diseño
+
 Investigando sobre los patrones de diseño, en la paǵina material.io, que es un sistema de diseño open-source que introduce de manera sencilla en el mundo del diseño de aplicaciones, aprendimos una serie de herramientas como:
 Pautas de diseño, que incluyen desde detalles de estilo hasta buenas prácticas.
 Guía de componentes, que nos permite crear una interfaz de usuario sencilla y bonita, tanto para dispositivos móviles como para formato web.
@@ -40,6 +45,7 @@ Pautas para hacer accesible nuestra aplicación, ayudándonos a crearla para que
 
 
 ## Mockup: LAYOUT HI-FI
+
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Home.png)
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Actividades.png)
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Contacto.png)
