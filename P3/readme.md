@@ -21,14 +21,14 @@ Por otra parte, se han usado cuatro colores siendo el azul oscuro y el naranja l
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Fuente3.png)
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/PaletaColores.png)
 
-En la gama de colores anteriormente esxpuesta, podemos distinguir los siguientes códigos de colores:
+En la gama de colores anteriormente expuesta, podemos distinguir los siguientes códigos de colores:
  * #284A4C
  * #F4F483
  * ECD171
  * DD9B59
 
-Las fuentes utilziadas son:
- * Para los titulos será "Glegoo" ya que es una fuente clara y visual, que permite centrar mucho la antención del usuario en el título.
+Las fuentes utilizadas son:
+ * Para los títulos será "Glegoo" ya que es una fuente clara y visual, que permite centrar mucho la antención del usuario en el título.
  * Para los subtitulos será "Fira Sans" ya que permite una gran legibilidad del texto.
  * Para el texto utilizaremos "Voces" ya que, permite una gran legibilidad, además, para personas que tengan algún tipo de discapacidad, este tipo de fuentes serán de gran ayuda debido a la gran separación entre las propias letras de una palabra, al igual, que entre las palabras que conforman el párrafo.
 
