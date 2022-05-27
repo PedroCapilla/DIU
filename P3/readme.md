@@ -82,7 +82,7 @@ Imagen que contiene el apartado de Reserva. Se encuentran el apartado para reser
 
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Reserva.png)
 
-Para acceder ProtoPie con el siguiente enlace: https://cloud.protopie.io/p/a1d819eb44
+Para acceder ProtoPie con el siguiente enlace: https://cloud.protopie.io/p/a1d819eb44?touchHint=true&ui=true&scaleToFit=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&playSpeed=1&playerAppPopup=true
 
 ## Documentación: Publicación del Case Study
 
