@@ -82,6 +82,8 @@ Imagen que contiene el apartado de Reserva. Se encuentran el apartado para reser
 
 ![alt text](https://github.com/PedroCapilla/DIU/blob/master/P3/Reserva.png)
 
+Para acceder ProtoPie con el siguiente enlace: https://cloud.protopie.io/p/a1d819eb44
+
 ## Documentación: Publicación del Case Study
 
 Una vez realiazdo el MoodBoard, el LandingPage, GuideLines y MockUp, ya estaría listo el Case Study para ser publicado.
