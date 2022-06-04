@@ -227,6 +227,9 @@ En el siguiente [enlace](https://github.com/PedroCapilla/DIU/blob/master/P4/Cues
 
 ### Valoración
 
+Ambas aplicaciones están muy bien pero en nuestra opinión, la página de Orange Rock ( "A" en el User Testing y Cuestionario SUS ) tiene más funcionalidades que podrían interesarle a la población. Por ejemplo en el Lemmon Rock ( "B" en el User Testing y Cuestionario SUS) solo aparece información sobre el tipo de comida o los eventos que se van a realizar según el mes, pero no aparece información ni del restaurante, como por ejemplo, información sobre algunas salas,...
+Por otro lado, Orange Rock ofrece más posibilidades en cuanto al alojamiento, ya que incluye la opcion de hospedaje, o de realizar diversas actividades o excursiones.
+Por otro lado, Lemmon Rock ofrece la posibilidad de rellenar un formulario de contacto a parte del fomulario de reserva para contactar con el alojamiento en caso de tener algún tipo de duda. Este también ofrece los números de contacto y la ubicación.
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
