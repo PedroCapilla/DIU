@@ -1,7 +1,7 @@
 # DIU22
 Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
 
-Grupo: DIU1_01AABB.  Curso: 2021/22 
+Grupo: DIU1_PM_A1.  Curso: 2021/22 
 Updated: 11/2/2022
 
 Proyecto: 
@@ -214,6 +214,7 @@ Una vez realiazdo el MoodBoard, el LandingPage, GuideLines y MockUp, ya estaría
 | Persona3 | H / 22    | Estudiante  | Alta        | Extrovertido | Móvil      | B 
 | Persona4 | M / 45    | Abogada     | Alta        | Racional     | Móvil      | B 
 
+![alt text](https://github.com/PedroCapilla/DIU/blob/master/P4/TABLA2.png)
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
