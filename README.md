@@ -197,7 +197,7 @@ Una vez realiazdo el MoodBoard, el LandingPage, GuideLines y MockUp, ya estaría
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
-El caso que nos ha sido asignado es: [MBM-devs](https://github.com/MBM-devs/DIU)
+El caso que nos ha sido asignado es: [MBM-devs](https://github.com/MBM-devs/DIU).
 Los estudiantes de MBM han realizado un diseño UX basado en una inmersión cultural a través de la comida y los eventos. Cada semana propondrán platos de distintos lugares del mundo además de espectáculos relacionados con dicho lugar y su cultura. Por si ésto fuera poco, los sábados, un reconocido chef especializado en la gastronomía de esa zona, llevará a cabo la elaboración del menú estrella de esa semana. Se ofrecerá un menú con distintos platos con los sabores más característicos de los países pertenecientes a la cultura de esa semana. 
 
 
