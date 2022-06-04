@@ -214,7 +214,7 @@ Una vez realiazdo el MoodBoard, el LandingPage, GuideLines y MockUp, ya estaría
 | Persona3 | H / 22    | Estudiante  | Alta        | Extrovertido | Móvil      | B 
 | Persona4 | M / 45    | Abogada     | Alta        | Racional     | Móvil      | B 
 
-![alt text](https://github.com/PedroCapilla/DIU/blob/master/P4/TABLA2%20-%20Hoja%201%20(1).pdf)
+En el siguiente [enlace](https://github.com/PedroCapilla/DIU/blob/master/P4/TABLA2%20-%20Hoja%201%20(1).pdf) podrá ver el resultado del User Testing.
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
