@@ -197,8 +197,7 @@ Una vez realiazdo el MoodBoard, el LandingPage, GuideLines y MockUp, ya estaría
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+El caso que nos ha sido asignado es: [MBM-devs](https://github.com/MBM-devs/DIU)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
