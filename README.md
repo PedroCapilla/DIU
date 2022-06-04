@@ -104,7 +104,6 @@ Término | Significado
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
-# DIU - Practica 3, entregables
 
 ## Moodboard (diseño visual + logotipo)
 Primeramente, empezamos creando un MoodBoard que es una pizarra en la que podemos concentrar diferentes elementos, como el logo que tendrá el Hostel, la paleta de colores que usará, algunos iconos identificativos...
