@@ -225,6 +225,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 En el siguiente [enlace](https://github.com/PedroCapilla/DIU/blob/master/P4/Cuestionario%20SUS%20DIU.xlsx%20-%20Sheet1%20(1).pdf) podrá observar el resultado del Cuestionario SUS realizado a las personas anteriores.
 
+## Valoración
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
