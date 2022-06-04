@@ -207,12 +207,12 @@ Una vez realiazdo el MoodBoard, el LandingPage, GuideLines y MockUp, ya estaría
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Usuarios | Sexo/Edad | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| ---------| --------  | ----------- | ----------- | -----------  | ---------- | ----
+| Persona1 | H / 70    | Jubilado    | Baja        | Miedoso      | Móvil.     | A 
+| Persona2 | M / 30    | Profesora   | Media       | Miedosa      | Web        | A 
+| Persona3 | H / 22    | Estudiante  | Alta        | Extrovertido | Móvil      | B 
+| Persona4 | M / 45    | Abogada     | Alta        | Racional     | Móvil      | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
