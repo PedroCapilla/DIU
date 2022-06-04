@@ -223,7 +223,7 @@ En el siguiente [enlace](https://github.com/PedroCapilla/DIU/blob/master/P4/TABL
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+En el siguiente [enlace](https://github.com/PedroCapilla/DIU/blob/master/P4/Cuestionario%20SUS%20DIU.xlsx%20-%20Sheet1%20(1).pdf) podrá observar el resultado del Cuestionario SUS realizado a las personas anteriores.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
