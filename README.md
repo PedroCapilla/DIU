@@ -235,8 +235,7 @@ Por otro lado, Lemmon Rock ofrece la posibilidad de rellenar un formulario de co
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
+![alt text](https://github.com/PedroCapilla/DIU/blob/master/P4/Usability%20Review.pdf)
 
 
 >>> Valoración personal 
