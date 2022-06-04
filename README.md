@@ -238,9 +238,6 @@ Por otro lado, Lemmon Rock ofrece la posibilidad de rellenar un formulario de co
 En el siguiente [enlace](https://github.com/PedroCapilla/DIU/blob/master/P4/Usability%20Review.pdf) podrá tener acceso al Usability Report realizado 
 
 
->>> Valoración personal 
-
-
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
 
 
